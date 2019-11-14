@@ -1,3 +1,16 @@
+// timer 
+var sec = 75;
+var time = setInterval(myTimer, 1000);
+
+function myTimer() {
+    document.getElementById('timer').innerHTML = sec;
+    sec--;
+    if (sec == -1) {
+        clearInterval(time);
+        alert("Time's Up!!!");
+    }
+}
+
 function Quiz(questions) {
     this.score = 0;
     this.questions = questions; 
@@ -86,7 +99,8 @@ var questions = [
  
 // make quiz
 var quiz = new Quiz(questions);
- 
+
+
 // show quiz
 populate();
   
