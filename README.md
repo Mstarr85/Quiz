@@ -6,7 +6,7 @@
 
 ## Description
 
-   This is a responsive multiple choice quiz using Javascript
+   This is a timed responsive multiple choice quiz using Javascript
 
 ## Installation Instructions
 
@@ -20,11 +20,15 @@
    
 ## How It Works
 
-    *There are 5 questions on this quiz     
+    * Timed quiz with 75 seconds on the clock.  
+    
+    * There are 5 questions on this quiz     
 
-    *Read the questions carefully and click on one of the multiple choice answers
+    * Read the questions carefully and click on one of the multiple choice answers
 
-    *Once you are finished you will get your score
+    * When timer reaches zero the quiz is over
+    
+    * Once you are finished you will get your score
 
 About:
 
