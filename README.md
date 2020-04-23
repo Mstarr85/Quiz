@@ -10,13 +10,13 @@
 
 ## Installation Instructions
 
-   * Clone Repo to local machine
+   Clone Repo to local machine
    
-   * Open HTML file with default browser 
+   Open HTML file with default browser 
    
                   or
                   
-   * Click on the Github Deployed Link below
+   Click on the Github Deployed Link below
    
 ## How It Works
 
