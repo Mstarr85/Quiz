@@ -2,7 +2,7 @@
 
 <img width="1440" alt="Screen Shot 2020-04-14 at 9 46 21 AM" src="https://user-images.githubusercontent.com/53281244/79232296-56a14f00-7e35-11ea-9c1b-7bcee8176727.png">
 
-# Bootstrap
+# Quiz
 
 ## Description
 
