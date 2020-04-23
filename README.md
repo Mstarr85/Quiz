@@ -20,17 +20,17 @@
    
 ## How It Works
 
-    * Timed quiz with 75 seconds on the clock.  
+ * Timed quiz with 75 seconds on the clock.  
     
-    * There are 5 questions on this quiz     
+ * There are 5 questions on this quiz     
 
-    * Read the questions carefully and click on one of the multiple choice answers
+ * Read the questions carefully and click on one of the multiple choice answers
 
-    * When timer reaches zero the quiz is over
+ * When timer reaches zero the quiz is over
     
-    * Once you are finished you will get your score
+ * Once you are finished you will get your score
 
-About:
+
 
     *This was created to showcase knowledge of building a multiple choice quiz
 
