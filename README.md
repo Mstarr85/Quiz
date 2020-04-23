@@ -2,10 +2,23 @@
 
 <img width="1440" alt="Screen Shot 2020-04-14 at 9 46 21 AM" src="https://user-images.githubusercontent.com/53281244/79232296-56a14f00-7e35-11ea-9c1b-7bcee8176727.png">
 
+# Bootstrap
 
-This is a responsive javascript quiz
+## Description
 
-Getting Started: 
+   This is a responsive multiple choice quiz using Javascript
+
+## Installation Instructions
+
+   * Clone Repo to local machine
+   
+   * Open HTML file with default browser 
+   
+                  or
+                  
+   * Click on the Github Deployed Link below
+   
+## How It Works
 
     *There are 5 questions on this quiz     
 
